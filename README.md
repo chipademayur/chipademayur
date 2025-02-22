@@ -1,6 +1,5 @@
 - 👋 Hi, I’m mayur
 - 👀 I’m interested Networking.
-- 🌱 I’m currently improving my Java Programming skills as well as javascript knowledge and other programming knowledge
 - 💞️ I am confident that my skills and experience make me a strong candidate and I look forward to the opportunity to discuss further how I can contribute
 - 📫 How to reach me =8379921692/Chipademayur2001@gmail.com
 <!---
